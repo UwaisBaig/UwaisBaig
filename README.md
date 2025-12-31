@@ -1,14 +1,14 @@
 <div align="center">
 
-# `while(true) { code(); }` Hi, I'm M. Uwais Baig 👋
+# `while(true) { code(); }` Hi, I'm M. Uwais Baig
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%40+UET+Lahore;Software+%26+AI+Developer;Generative+AI+Enthusiast;Building+Smart+Solutions;404%3A+Sleep+Not+Found;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%40+UET+Lahore;Software+%26+AI+Developer;Generative+AI+Enthusiast;Building+Smart+Solutions;404%3A+Sleep+Not+Found;Turning+Coffee+Into+Code" alt="Typing SVG" />
 
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a **BS Computer Science student at UET Lahore** and an aspiring Software & AI Developer passionate about building intelligent solutions that bridge technical innovation with real-world impact.
 
@@ -23,7 +23,7 @@ I'm a **BS Computer Science student at UET Lahore** and an aspiring Software & A
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 ```python
 class UwaisBaig:
@@ -43,7 +43,7 @@ me.say_hi()
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-uwais-baig-ba1168296">
@@ -65,7 +65,7 @@ me.say_hi()
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -119,7 +119,7 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -131,7 +131,7 @@ me.say_hi()
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -143,7 +143,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Dev Quote
+### Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -157,8 +157,6 @@ me.say_hi()
 
 <div align="center">
   
-### 💡 *"First, solve the problem. Then, write the code."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+### *"First, solve the problem. Then, write the code."*
 
 </div>
