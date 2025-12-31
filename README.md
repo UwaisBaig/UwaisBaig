@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%40+UET+Lahore;Software+%26+AI+Developer;Generative+AI+Enthusiast;Building+Smart+Solutions;404%3A+Sleep+Not+Found;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
-
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -100,20 +98,20 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-#### Cloud & AI
-- 🏆 **Introduction to Responsible AI** - Google Cloud
-- 🏆 **Generative AI for Executives**
-- 🏆 **Essentials of Prompt Engineering**
-- 🏆 **Google Cloud Fundamentals**
+#### Computer Science & Development
+- 🏆 **CS50x: Introduction to Computer Science** - Harvard University
+- 🏆 **AWS Cloud Practitioner Essentials** - Amazon Web Services
+- 🏆 **Essentials of Prompt Engineering** - Amazon Web Services
+- 🏆 **Fundamentals of Machine Learning and Artificial Intelligence** - AWS
 
 </td>
 <td width="50%" valign="top">
 
-#### Development & Tools
-- 🏆 **AWS Cloud Practitioner Essentials**
-- 🏆 **Python for Data Science**
-- 🏆 **Full-Stack Web Development**
-- 🏆 **Meta Ads & Digital Marketing**
+#### Generative AI & Responsible AI
+- 🏆 **Generative AI for Executives** - Amazon Web Services
+- 🏆 **Introduction to Responsible AI** - Google Cloud
+- 🏆 **Prompt Design in Vertex AI** - Google Cloud
+- 🏆 **AI Agents For Beginners** - Simplilearn
 
 </td>
 </tr>
@@ -133,31 +131,11 @@ me.say_hi()
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=UwaisBaig&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=UwaisBaig&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/UwaisBaig/UwaisBaig/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
