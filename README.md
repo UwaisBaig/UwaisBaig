@@ -1,6 +1,6 @@
 <div align="center">
 
-# `git commit -m "Initial commit of my life"` 👋 I'm M. Uwais Baig
+# `while(true) { code(); }` 💻 Uwais Baig
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Computer+Science+Student;Software+%26+AI+Developer;Generative+AI+Enthusiast;Building+Smart+Solutions;404%3A+Sleep+Not+Found" alt="Typing SVG" />
 
@@ -80,12 +80,10 @@ learning: [Responsible AI, Prompt Engineering, Cloud Infrastructure]
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UwaisBaig&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=UwaisBaig&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UwaisBaig&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UwaisBaig&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
