@@ -8,17 +8,9 @@
 
 </div>
 
-<p align="center">
-  <img src="./ascii.svg" width="700" alt="Uwais Baig ASCII Portrait" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://uwaisbaig.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-uwaisbaig.netlify.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/m-uwais-baig-ba1168296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:uwaisbaig.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
+<img align="left" width="340" src="./ascii.svg" alt="Uwais Baig ASCII Portrait" />
 
 ### About
 
@@ -29,6 +21,14 @@ I build production mobile apps and browser extensions with full-stack backend ow
 - **DukanFlow**, a multi-outlet retail ERP with offline sync, is launching soon
 - BS in Engineering, University of Engineering and Technology (UET), Lahore
 - Reach me at **uwaisbaig.dev@gmail.com**
+
+<br clear="left"/>
+
+<p align="center">
+  <a href="https://uwaisbaig.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-uwaisbaig.netlify.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-uwais-baig-ba1168296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:uwaisbaig.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
