@@ -8,9 +8,7 @@
 
 </div>
 
-<br/>
-
-<img align="left" width="340" src="./ascii.svg" alt="Uwais Baig ASCII Portrait" />
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Coding">
 
 ### About
 
@@ -22,7 +20,7 @@ I build production mobile apps and browser extensions with full-stack backend ow
 - BS in Engineering, University of Engineering and Technology (UET), Lahore
 - Reach me at **uwaisbaig.dev@gmail.com**
 
-<br clear="left"/>
+<br clear="right"/>
 
 <p align="center">
   <a href="https://uwaisbaig.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-uwaisbaig.netlify.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
