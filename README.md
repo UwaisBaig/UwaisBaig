@@ -1,121 +1,113 @@
 <div align="center">
 
-# `while(true) { code(); }` Hi, I'm M. Uwais Baig
+# M. Uwais Baig
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+%40+UET+Lahore;Software+%26+AI+Developer;Generative+AI+Enthusiast;Building+Smart+Solutions;404%3A+Sleep+Not+Found;Turning+Coffee+Into+Code" alt="Typing SVG" />
+### Mobile & Full-Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Shipping+Production+Apps+Since+2023;Flutter+%2B+Node.js+%2B+Supabase;176+Countries%2C+3+Products+Live;Building+AzmFlow+%26+DukanFlow" alt="Typing SVG" />
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### About Me
-
-I'm a **BS Computer Science student at UET Lahore** and an aspiring Software & AI Developer passionate about building intelligent solutions that bridge technical innovation with real-world impact.
-
-- Currently working on **small-scale software automation** and **AI-powered applications**
-- Learning **Generative AI** and **Advanced Prompt Engineering**
-- Open to collaborate on **AI projects** and **full-stack solutions**
-- Former **Meta Ads Specialist** with e-commerce experience (scaled store to 1 lakh+ revenue)
-- Building **AzmFlow** - a productivity app with Flask & SQLite
-- Reach me at **uwaisbaig20@gmail.com**
-
-<br clear="right"/>
-
----
-
-### Current Focus
-
-```python
-class UwaisBaig:
-    def __init__(self):
-        self.role = "Freelance Software Developer & AI Enthusiast"
-        self.education = "BS Computer Science @ UET Lahore"
-        self.interests = ["Generative AI", "Cloud Architecture", "Full-Stack Development"]
-        self.current_projects = ["AzmFlow Productivity App", "Automation Scripts"]
-        self.learning = ["Responsible AI", "Prompt Engineering", "Cloud Infrastructure"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = UwaisBaig()
-me.say_hi()
-```
-
----
-
-### Connect With Me
+<p align="center">
+  <img src="./ascii.svg" width="700" alt="Uwais Baig ASCII Portrait" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-uwais-baig-ba1168296">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="http://bit.ly/UwaisPortfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:uwaisbaig20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/uwais_baig">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/uwais.mughal">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <a href="https://uwaisbaig.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-uwaisbaig.netlify.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-uwais-baig-ba1168296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:uwaisbaig.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+### About
+
+I build production mobile apps and browser extensions with full-stack backend ownership — from database schema and row-level security to the UI a user actually taps. Based in Lahore, Pakistan, open to remote and onsite engineering roles.
+
+- 2+ years shipping independently, from first commit to Play Store review
+- **AzmFlow** (Android + Chrome Extension) is live across 176 countries with 16 releases
+- **DukanFlow**, a multi-outlet retail ERP with offline sync, is launching soon
+- BS in Engineering, University of Engineering and Technology (UET), Lahore
+- Reach me at **uwaisbaig.dev@gmail.com**
+
+---
+
+### Featured Work
+
+**[AzmFlow — Android App](https://play.google.com/store/apps/details?id=com.azmflow.app)** · Live on Google Play · 176 countries · 16 releases
+A digital wellness app that blocks addictive short-form content (Reels, Shorts, TikTok) with focus lock, accountability partners, and uninstall protection.
+`Flutter` `Dart` `Supabase` `Android SDK`
+
+**[AzmFlow — Chrome Extension](https://chromewebstore.google.com/detail/ohfjdmmpefflkpcbeiomlnkfbichopcf)** · Live · Manifest V3
+Companion extension with a Node.js/PostgreSQL backend — all blocking state is enforced server-side, so it can't be bypassed by editing the client.
+`JavaScript` `Node.js` `Express` `PostgreSQL`
+
+**DukanFlow — Business Suite** · Launch imminent
+A multi-tenant retail management system for small and medium businesses: real-time inventory, POS terminal integration, multi-staff roles, and offline sync.
+`Flutter` `Supabase` `PostgreSQL` `REST APIs`
+
+**TabVault — Chrome Extension** · Live · Manifest V3
+Turns any browser tab into an actionable task in one right-click, with due dates, priority tags, and JSON/CSV export.
+`JavaScript` `HTML5/CSS3` `Chrome Storage API`
+
+**CS50x Capstone — Web Application** · Harvard CS50x final project
+Full-stack web app with secure authentication, a relational database, and REST APIs.
+`Python` `Flask` `SQLite` `JavaScript`
+
+**Hardware Security Control System** · Embedded systems project
+A physical security system using hardware sensors, encrypted communication, and real-time trigger alerts.
+`C++` `Embedded C` `Microcontrollers`
+
+More on **[GitHub ↗](https://github.com/UwaisBaig)** and the **[portfolio ↗](https://uwaisbaig.netlify.app/)**.
+
+---
+
+### Experience
+
+| Period | Role |
+|---|---|
+| 2023 – Present | Mobile & Full-Stack Developer (Independent) — architected and shipped AzmFlow and DukanFlow end-to-end |
+| 2023 – Present | Freelance Software Developer (Upwork & direct contracts) — web apps, browser extensions, backend integrations |
+| 2022 – 2023 | Digital Marketing Specialist — growth strategy and user acquisition for mobile and e-commerce |
+| 2021 – 2022 | E-Commerce Founder, PremierHub — store design, logistics, marketing, payments |
+| 2019 – 2023 | BS in Engineering, UET Lahore |
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Computer Science & Development
-- 🏆 **CS50x: Introduction to Computer Science** - Harvard University
-- 🏆 **AWS Cloud Practitioner Essentials** - Amazon Web Services
-- 🏆 **Essentials of Prompt Engineering** - Amazon Web Services
-- 🏆 **Fundamentals of Machine Learning and Artificial Intelligence** - AWS
-
-</td>
-<td width="50%" valign="top">
-
-#### Generative AI & Responsible AI
-- 🏆 **Generative AI for Executives** - Amazon Web Services
-- 🏆 **Introduction to Responsible AI** - Google Cloud
-- 🏆 **Prompt Design in Vertex AI** - Google Cloud
-- 🏆 **AI Agents For Beginners** - Simplilearn
-
-</td>
-</tr>
-</table>
+- CS50x: Introduction to Computer Science — Harvard University
+- Generative AI for Leaders — Udemy
+- Android App Development Foundations
+- Google Play Console Deployment Masterclass
+- AWS Cloud Practitioner Essentials — Amazon Web Services
+- Introduction to Responsible AI — Google Cloud
 
 ---
 
@@ -123,8 +115,8 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UwaisBaig&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=UwaisBaig&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
@@ -141,22 +133,12 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-### Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UwaisBaig&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=UwaisBaig&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
-  
-### *"First, solve the problem. Then, write the code."*
+
+*"First, solve the problem. Then, write the code."*
 
 </div>
