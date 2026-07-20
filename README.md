@@ -115,9 +115,12 @@ More on **[GitHub ↗](https://github.com/UwaisBaig)** and the **[portfolio ↗]
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=UwaisBaig&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UwaisBaig&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UwaisBaig&theme=github_dark)](https://github.com/UwaisBaig)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UwaisBaig&theme=github_dark)](https://github.com/UwaisBaig)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UwaisBaig&theme=github_dark)](https://github.com/UwaisBaig)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=UwaisBaig&theme=github-dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=ffffff)](https://github.com/UwaisBaig)
 
 </div>
 
