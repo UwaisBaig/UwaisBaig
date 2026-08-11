@@ -120,18 +120,6 @@ More on **[GitHub ↗](https://github.com/UwaisBaig)** and the **[portfolio ↗]
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UwaisBaig&theme=github_dark)](https://github.com/UwaisBaig)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UwaisBaig&theme=github_dark)](https://github.com/UwaisBaig)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=UwaisBaig&theme=github-dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=ffffff)](https://github.com/UwaisBaig)
-
-</div>
-
----
-
-### Contribution Activity
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=UwaisBaig&theme=react-dark&hide_border=true&area=true)
-
 </div>
 
 ---
